@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+
+# C++ build artifacts
+*.o
+*.out
+*.exe
+*.dSYM/
+
+# VS Code
+.vscode/
+
